@@ -4,7 +4,8 @@
   lecturer: Jesse Thomason
   title: >
     <strong>Course Introduction</strong>
-  slides: ""
+  slides: "https://docs.google.com/presentation/d/14XpR0nzWHjAfAPZSSvM-oKdh99uGqfA8hQAQJQIGDz8/edit?usp=share_link"
   video: ""
   homework:
+    - DL 1.1-2, 12.1-5
   logistics:
