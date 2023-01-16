@@ -9,3 +9,139 @@
   homework:
     - DL 1.1-2, 12.1-5
   logistics:
+
+- date: 1/20
+  title: >
+    <strong>Machine Learning 101 + Loss Functions and Optimization</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- date: 1/27
+  title: No Class
+
+- date: 2/3
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Neural Network Overview + CNNs</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics: 
+    - Project Team Due
+
+- date: 2/10
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Training Neural Networks + Software Tutorials (by TAs)</strong>
+  slides: ""
+  video: ""
+  homework:
+    - Assignment 1 OUT
+  logistics: 
+
+- date: 2/17
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Recurrent Neural Networks</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics: 
+    - Course Project Proposal Due
+
+- title: "Module 2: Deep Learning Applications"
+
+- date: 2/24
+  title: Midterm Exam
+  slides: ""
+  video: ""
+  homework:
+  logistics: 
+    - Assignment 1 Due
+
+- date: 3/3
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Deep Learning for Computer Vision + project pitch</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- date: 3/10
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Deep Learning for Natural Language Processing + midterm re-cap</strong>
+  slides: ""
+  video: ""
+  homework:
+    - Assignment 2 OUT
+  logistics:
+    - Project Survey Due
+
+- date: 3/17
+  title: No Class (Spring Break)
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- date: 3/24
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Reinforcement Learning 101 + Deep Learning for Graphs</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+    - Assignment 2 Due
+
+- title: "Module 3: Advanced Topics in Deep Learning"
+
+- date: 3/31
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Attention, Memory, Relation Networks + 5 paper presentations</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+    - Course Project Mid-Report Due
+
+- date: 4/7
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Generative Models & Language Models + 5 paper presentations</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- date: 4/14
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Multi-Modal Learning + 5 paper presentations</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- date: 4/21
+  lecturer: Jesse Thomason
+  title: >
+    <strong>Transfer Learning/Multi-Task Learning + 5 paper presentations</strong>
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- date: 4/28
+  title: Team Project Presentations
+  slides: ""
+  video: ""
+  homework:
+  logistics:
+
+- title: "No in-class exam, Final Report due Wed May 3 11:59pm"
