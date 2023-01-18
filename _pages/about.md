@@ -12,7 +12,7 @@ Recently, deep learning has advanced many AI-related problems from image retriev
 ***
 
 - **Time:** Fridays, 1:00pm-4:20pm PST
-- **Location:** [SGM 101](https://maps.usc.edu/?id=1928&reference=SGM){:target="\_blank"}
+- **Location:** [THH 201](https://maps.usc.edu/?id=1928#!m/552568){:target="\_blank"}
 - **Discussion:** [Piazza](https://piazza.com/class/lcpa44ep1pk5aj/){:target="\_blank"}
 <!-- - **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"} -->
 <!-- - **Online Lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}. -->
