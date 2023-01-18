@@ -5,18 +5,19 @@ Instructors:
       image: staff/jesse.jpeg
 
 TAs:
-    - name: Tejas Srinivasan
-      url: https://tejas1995.github.io/
-      office-hours: 
-      image: staff/tejas.jpg
-    - name: Gautam Salhotra
-      url: http://www.gautamsalhotra.com/
-      office-hours: 
-      image: staff/gautam.jpg
     - name: Deqing Fu
       url: https://sites.google.com/usc.edu/deqingfu
-      office-hours: 
+      office-hours: Wednesdays 3-4pm
       image: staff/deqing.jpeg
+    - name: Gautam Salhotra
+      url: http://www.gautamsalhotra.com/
+      office-hours: Wednesdays 3-4pm
+      image: staff/gautam.jpg
+    - name: Tejas Srinivasan
+      url: https://tejas1995.github.io/
+      office-hours: Thursdays 10-11am
+      image: staff/tejas.jpg
     - name: Bingjie Tang
       url: https://bingjietang718.github.io/
       image: staff/bingjie.jpeg
+      office-hours: Thursdays 10-11am
