@@ -13,9 +13,10 @@
 - date: 1/20
   title: >
     <strong>Framing Problems for ML + Loss functions and Optimization</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1JPh6ynCqeiq_0ZnnNvSsM8t-S19D24HQZWRnrMTe5tI/edit#slide=id.g1cb17ff88f8_0_193"
+  video: "https://usc.zoom.us/rec/share/w7_03omwXaHoNglsMvjvxm67yzq4CD33MwENAuZmud3s7U89Di63KZhxDFeDwqUh.j-ZlIxv6uXz2ApCF?startTime=1674247744000"
   homework:
+    - DL 5.1-4, 5.7-9
   logistics:
 
 - date: 1/27
