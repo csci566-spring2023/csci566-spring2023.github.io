@@ -36,11 +36,12 @@
   lecturer: Jesse Thomason
   title: >
     <strong>Training Neural Networks + Software Tutorials (by TAs)</strong>
-  slides: ""
-  video: ""
+  slides: "https://docs.google.com/presentation/d/1f0INON3FWyiTsOU6q7qE_i82gzw78knpdmfi8whbDXM/edit"
+  video: "https://usc.zoom.us/rec/share/gTccoDqGR1fAbxcwneonAJ8x2Hh03ppc7HhZL5m59ltNPw1EhwIU0BxcBEuLjGXy.sVGdBUEd0uCZ0bvs?startTime=1676062666000"
   homework:
     - <a href="https://github.com/csci566-spring2023/csci566-assignment1">Assignment 1 OUT</a>
   logistics: 
+   - <a href="https://colab.research.google.com/drive/1mPBgsN42eGT1ug97lsyLWqlNmvpJRda3?usp=sharing">PyTorch Tutorial Notebook</a>
 
 - date: 2/17
   lecturer: Jesse Thomason
