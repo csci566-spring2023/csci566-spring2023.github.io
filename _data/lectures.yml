@@ -35,7 +35,7 @@
 - date: 2/10
   lecturer: Jesse Thomason
   title: >
-    <strong>Training Neural Networks + Software Tutorials (by TAs)</strong>
+    <strong>Activations, Initializations, Optimization, and Regularization + Software Tutorials (by TAs)</strong>
   slides: "https://docs.google.com/presentation/d/1f0INON3FWyiTsOU6q7qE_i82gzw78knpdmfi8whbDXM/edit"
   video: "https://usc.zoom.us/rec/share/gTccoDqGR1fAbxcwneonAJ8x2Hh03ppc7HhZL5m59ltNPw1EhwIU0BxcBEuLjGXy.sVGdBUEd0uCZ0bvs?startTime=1676062666000"
   homework:
@@ -66,7 +66,7 @@
 - date: 3/3
   lecturer: Jesse Thomason
   title: >
-    <strong>Deep Learning for Computer Vision + project pitches</strong>
+    <strong>Deep Learning for Natural Language Processing + project pitches</strong>
   slides: "https://docs.google.com/presentation/d/1k0blJZGo5oCk8yjbGslVgygsxsY-GGY7nWPkwgWqFDo/edit#slide=id.g143ef552c9f_0_108"
   video: "https://usc.zoom.us/rec/share/BKbhy1aoENiZwpqJp1V4ExPNNrLqko-H-vabHSgEfgOXA2BYGae0KwBM1Pz9phkg.xK-NycMjxoWsEfFL?startTime=1677877302000"
   homework:
@@ -75,7 +75,7 @@
 - date: 3/10
   lecturer: Jesse Thomason
   title: >
-    <strong>Deep Learning for Natural Language Processing + Assignment 1 de-brief</strong>
+    <strong>Transformer Networks and Deep Learning for Computer Vision + midterm debrief</strong>
   slides: "https://docs.google.com/presentation/d/1WYn7t3CBBSbv02cgMF3iMVzY_b5Uadha5042NY3Cjo0/edit#slide=id.g143ef552c9f_0_108"
   video: "https://usc.zoom.us/rec/share/DcBUsOhK6llpqGxoCkCTiIc2z0tkNmbW4BO-JiH3QO_7EkJ-sm5xCnadNtp9Ao2S.gqZHxQSlfPtqfI35?startTime=1678481958000"
   homework:
@@ -93,40 +93,40 @@
 - date: 3/24
   lecturer: Jesse Thomason
   title: >
-    <strong>Reinforcement Learning 101 + Deep Learning for Graphs</strong>
-  slides: ""
-  video: ""
+    <strong>Multimodal Deep Learning</strong>
+  slides: "https://docs.google.com/presentation/d/1Axmd_wXVv0MScXUKyQKoxkM1cxrSXTm-oll9eHNY2q0/edit#slide=id.g2040fd4940d_0_356"
+  video: "https://usc.zoom.us/rec/share/uvSdJkqJ_6hFe0505X4kY1q6TLsTzYO8t8hrqnvqc5Z93cHyaW5IzZhsGHyoP2bP.C6mPMPcsBOSWGUGI?startTime=1679687746000"
   homework:
   logistics:
-    - Assignment 2 Due
 
 - title: "Module 3: Advanced Topics in Deep Learning"
 
 - date: 3/31
   lecturer: Jesse Thomason
   title: >
-    <strong>Attention, Memory, Relation Networks + paper presentations</strong>
-  slides: ""
-  video: ""
+    <strong>Deep Learning for Agents + paper breakouts</strong>
+  slides: "https://docs.google.com/presentation/d/12WFdwQqcaHjay_prb6lWINIURbh50QJR6FKZb2mIe9U/edit#slide=id.g143ef552c9f_0_108"
+  video: "https://usc.zoom.us/rec/share/sx_Q73EZYJHPcRjhRMNUyiAysNkT_-62y2mON4w3N7zh3gO1WRFb3Is7ylXw1KwD.zox4qgFFUgTTYaf_?startTime=1680292717000"
   homework:
   logistics:
-    - Course Project Mid-Report Due
+    - Course Project Mid-Report Due, April 3
+    - Assignment 2 Due, April 3
 
 - date: 4/7
   lecturer: Jesse Thomason
   title: >
-    <strong>Generative Models & Language Models + Assignment 2 de-brief + paper presentations</strong>
-  slides: ""
-  video: ""
+    <strong>Deep Reinforcement Learning + paper breakouts</strong>
+  slides: "https://docs.google.com/presentation/d/1JHPL_6Eea9XeBo3CIpJMHGNHzdfL5xoXNrRd4uuPD6Q/edit#slide=id.g2040fd4940d_0_8938"
+  video: "https://usc.zoom.us/rec/share/kJZ3OnWZzQLRgJ9qeqjDbvu54eXFKs_8Y_Y6qt--LmfnJarA-Ms-hDjl4sQXI_aE.DNhk33B73Jc8tybN?startTime=1680897458000"
   homework:
   logistics:
 
 - date: 4/14
   lecturer: Jesse Thomason
   title: >
-    <strong>Multi-Modal/Transfer Learning + paper presentations</strong>
-  slides: ""
-  video: ""
+    <strong>Deep Learning and the World + paper breakouts</strong>
+  slides: "https://docs.google.com/presentation/d/15EPVl9567LV79xWz3AH4-D6TgbpP7WnYp_vgVoqZIg8/edit#slide=id.g1cb17ff88f8_0_193"
+  video: "https://usc.zoom.us/rec/share/NVPmisL1zqFo7aDQ9T_S6cC68Tlbz-txT7Mg9kvap3TQJkvz03zixkJe-u-7deE.0oQF-HBq2Kj0l9aX?startTime=1681502491000"
   homework:
   logistics:
 
@@ -135,7 +135,7 @@
   title: >
     <strong>Team Project Presentations</strong>
   slides: ""
-  video: ""
+  video: "https://usc.zoom.us/rec/share/gycFYwOxp3Cd6KtHoNVwZBR97fokMLjNKxEax7jvyo91XHR5U6R5ZqKB35TyLSMs.FiRfwpudUJz6lz16?startTime=1682107175000"
   homework:
   logistics:
 
